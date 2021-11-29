@@ -76,3 +76,5 @@ export `cat .env | xargs`
 
 Note: code tested only on MacOS, feel free to contribute :)
 
+**For Education purposes only**
+
